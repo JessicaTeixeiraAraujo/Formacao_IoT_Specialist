@@ -25,6 +25,6 @@ Critérios:
 
 - A saída deverá ser o valor correspondente ao lucro do consumidor, os impostos e o preço final dos bonecos;
 
-- Deverá passar no teste de código da plataforma [DIO.me](https://www.dio.me/)
+- Deverá passar no teste de código na plataforma [DIO.me](https://www.dio.me/)
  
 </span>
