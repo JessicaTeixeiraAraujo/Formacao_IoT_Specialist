@@ -8,9 +8,7 @@
 
 
 ### Uma fábrica de bonecos de ação está super valorizada e produzindo muito após o lançamento do novo filme do homem aranha. Eles estão produzindo bonecos dos três homens aranhas existentes no cinema.
-
 ### O custo ao consumidor desses bonecos é a soma do preço da fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço da fábrica.
-
 ### Seu chefe pediu que você calculasse três valores para cada um dos bonecos, incluindo os vilões e personagens secundários: 
 
 Critérios:
