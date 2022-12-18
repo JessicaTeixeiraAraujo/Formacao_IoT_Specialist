@@ -14,6 +14,6 @@ Critérios:
 
 - A saída deverá ser a média aritmética desses três valores; e
 
-- Deverá passar no teste de código na plataforma:  https://www.dio.me/ .
+- Deverá passar no teste de código na plataforma [DIO.me](https://www.dio.me/)
  
 </span>
