@@ -10,6 +10,6 @@
 
 - A entrada serão três valores inteiros e saída deverá ser a média aritmética desses três valores.
 
-- Deverá passar no teste de código na plataforma dio.me
+- Deverá passar no teste de código na plataforma:  https://www.dio.me/ 
  
 </span>
