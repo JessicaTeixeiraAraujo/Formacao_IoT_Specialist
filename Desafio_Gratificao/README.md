@@ -20,6 +20,6 @@ Critérios:
 
 - A saída deve ser o salário desse determinado funcionário após a gratificação e o imposto com 2 dígitos após a vírgula; e
 
-- Deverá passar no teste de código da plataforma: [DIO.me](https://www.dio.me/)
+- Deverá passar no teste de código na plataforma: [DIO.me](https://www.dio.me/)
 
 </span>
