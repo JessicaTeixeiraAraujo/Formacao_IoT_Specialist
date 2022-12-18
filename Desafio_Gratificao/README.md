@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao desafio da gratificação cobrada para os funcionários*
+#  *Bem-vindos ao desafio de gratificação cobrada para os funcionários!*
 
 </span>
 

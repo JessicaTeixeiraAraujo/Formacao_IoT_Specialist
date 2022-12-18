@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao desafio da média aritmética de notas dos alunos:*
+#  *Bem-vindos ao desafio da média aritmética de notas dos alunos!*
 
 </span>
 
