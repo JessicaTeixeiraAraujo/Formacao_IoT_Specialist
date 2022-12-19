@@ -9,12 +9,17 @@
 #define GRATIFICACAO 0.05
 #define IMPOSTO 0.07
 
-int main() {
+#define CALC_GRATIFICAO(salarioBase) (GRATIFICACAO *salarioBase)
+#define CALC_IMPOSTO(salarioBase) (IMPOSTO *salarioBase)
+
+float calcularSalarioFinal(float salarioBase){
+    return salarioBase + CALC_GRATIFICAO(salarioBase) - CALC_IMPOSTO(salarioBase);
+} 
+
+int main(void) {
     float salarioBase, gratificacao, imposto, salarioFinal;
-    scanf("%f", &salarioBase);
-
-    //TODO: Calcule a gratificação, o imposto e o salário final. Em seguida print no console o salário final.
-
-    getchar();
-    return 0;
+    scanf("%f%*c", &salarioBase);
+    
+    salarioFinal = calcularSalarioFinal(salarioBase);
+    printf("Salario final: %.2f",salarioFinal);
 }
