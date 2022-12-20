@@ -8,27 +8,22 @@
 
 //Código:
 
-#include<stdio.h>
+#include <stdio.h>
 
-int main() {
-    float a, b, c, media;
+int main(void)
+{
+    float a, b, c, media; // declara as variáveis
 
-    scanf("%f", &a);
-    scanf("%f", &b);
-    scanf("%f", &c);
+    scanf("%f%*c", &a); // realiza a leitura do valor de entrada e armazena em &a
     
+    scanf("%f%*c", &b);
+    
+    scanf("%f%*c", &c);
 
-    //TODO: Crie as condições necessárias para calcular a média e printar no console o valor dessa média conforme a saída pedida no exercício
-    
-    //Processamento cálculo
-    media = (a + b + c) / 3;
-    
-    //Leitura da media
-    scanf("%f", &media);
-    
-    //Saída
-    printf("Media do aluno = %.1f\n", media);
+    media = ((a + b + c) / 3); // calcula a média aritmética e armazena em media
 
-    getchar();
-    return 0;
+    printf("Media = %.2f\n", media); // exibe o resultado
+
+    return (0);
 }
+
