@@ -20,3 +20,8 @@ Critérios:
 ### Todo o processo descrito deve ser programado em linguagem C na placa de projetos Arduino.
  
 </span>
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/111321791/209442264-75dd8463-2626-4e20-ac18-05a5f1db30bd.png" width="1050px" />
+</div>
