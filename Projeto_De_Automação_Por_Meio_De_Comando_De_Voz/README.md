@@ -1,17 +1,14 @@
 <span align="center">
 
-#  *Bem-vindos ao  Projeto de Automação por meio de Comando de Voz*
+#  *Bem-vindos ao  Projeto de Automação Por Meio de Comando de Voz*
  
 </span>
 
 <span align="justify">
 
-## Sistema de Automação por Meio de Reconhecimento de Voz.
+Neste projeto o objetivo foi criar uma assistente virtual para automação residencial. E, durante o processo utilizou-se redes neurais para interpretação de comando de voz, arduino, motores, lâmpadas, sirenes e outros elementos de automação.
 
-
-Neste projeto o foco é direcionado para a criação de uma assistente virtual para automação residencial. Para que isso seja possível, vamos utilizar redes neurais para interpretação de comando de voz, Arduino, motores, lâmpadas, sirenes e outros elementos de automação.
-
-Inicialmente você vai precisar das seguintes instalações:
+Necessário as seguintes instalações:
 
 - pip install SpeechRecognition; e
 
@@ -19,14 +16,16 @@ Inicialmente você vai precisar das seguintes instalações:
 
 Conta no [TinkerCad](https://www.tinkercad.com/dashboard), onde o projeto foi desenvolvido.
 
-Ideias de projetos:
+Possiveis ideias iniciais de projetos:
 
 - Ligação de atuadores (lâmpadas, motores, sirenes) por meio de controle sem fio e comando de voz;
 
-- Aplicação de automação em software: busca na internet, busca em listas de dados, automação de software: comando de voz para abrir o Excel, Navegador, Word, PowerPoint utilizando a biblioteca OS.
+- Aplicação de automação em software: busca na internet, busca em listas de dados, automação de software: comando de voz para abrir o Excel, Navegador, Word, PowerPoint utilizando a biblioteca OS; e
 
 - Automação envolvendo hardware físico, onde o que fizemos no TinkerCad, pode ser feito em placas eletrônicas, sensores e atuadores reais.
 
-
-
 </span>
+
+<div align="center">
+<img src="https://www.cliquearquitetura.com.br/ckfinder/userfiles/images/art_Arquitetura%20e%20Urbanismo/assistente_virtual_inteligente_02.jpg" width="1050px" />
+</div>
