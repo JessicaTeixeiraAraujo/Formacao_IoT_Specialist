@@ -10,11 +10,11 @@ Neste projeto o objetivo foi criar uma assistente virtual para automação resid
 
 Necessário as seguintes instalações:
 
-- pip install SpeechRecognition; e
+- Pip install SpeechRecognition;
 
-- pip install + [caminho](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio).
+- Pip install + [caminho](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio); e
 
-Conta no [TinkerCad](https://www.tinkercad.com/dashboard), onde o projeto foi desenvolvido.
+- Conta no [TinkerCad](https://www.tinkercad.com/dashboard), onde o projeto foi desenvolvido.
 
 Possiveis ideias iniciais de projetos:
 
