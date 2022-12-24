@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao  Projeto de Automação Por Meio do Comando de Voz*
+#  *Bem-vindos ao  Projeto Automação Por Meio do Comando de Voz*
  
 </span>
 
