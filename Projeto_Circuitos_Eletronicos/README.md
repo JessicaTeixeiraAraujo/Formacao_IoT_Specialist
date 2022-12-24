@@ -17,7 +17,7 @@ Critérios:
 
 - Caso a temperatura ultrapasse os 50 °C, um LED vermelho e uma buzina devem acionar avisando uma situação de emergência.
 
-### Todo o processo descrito deve ser programado em linguagem C na placa de projetos Arduino.
+### Todo o processo foi programado em linguagem C na placa de projetos Arduino.
  
 </span>
 
