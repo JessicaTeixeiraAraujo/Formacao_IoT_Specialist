@@ -1,22 +1,22 @@
 <span align="center">
 
-#  *Bem-vindos ao Projeto Criando um Sistema de Reconhecimento Facial*
+#  *Bem-vindos ao Projeto Criando Sistema de Reconhecimento Facial*
  
 </span>
 
 <span align="justify">
 
-## O objetivo principal deste projeto é trabalhar aplicar na prática as bibliotecas e frameworks estudadas e analisadas. A proposta padrão envolve um sistema de detecção e reconhecimento de faces, utilizando o framework *TensorFlow* em conjuntos com as bibliotecas que julgar necessárias, livre para criar de forma ilimitada.  
- 
-O resultado esperado para o modelo, deve ser capaz de detectar e reconhecer mais de uma face ao mesmo tempo.  
+## O intuito deste projeto foi elaborar um sistema de detecção e reconhecimento de faces. Para isto, utilizou-se o framework *TensorFlow* e as bibliotecas e frameworks corelacionados.
 
-Para isso deve-se:
+O sistema é ser capaz de detectar e reconhecer mais de uma face ao mesmo tempo.  
 
-- Utilizar uma rede de detecção treinada para detectar faces;
+Critérios seguidos no planejamento e execução do projeto:
 
-- Utilizar uma rede de classificação para classificar a face detectada. 
+- Utilizou-se uma rede de detecção treinada para detectar faces;
 
-Para realizar este projeto, pode-se utilizar, os seguintes trabalhos de referência:
+- Utilizou-se uma rede de classificação para classificar a face detectada;
+
+Trabalhos seguidos como referência:
 
 - [Detecção Facial](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw?usp=sharing) 
  
