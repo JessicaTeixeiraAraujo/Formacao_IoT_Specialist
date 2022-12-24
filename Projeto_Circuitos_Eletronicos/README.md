@@ -17,7 +17,7 @@ Critérios:
 
 - Caso a temperatura ultrapasse os 50 °C, um LED vermelho e uma buzina devem acionar avisando uma situação de emergência.
 
-### Orocesso foi programado em linguagem C na placa de projetos Arduino.
+### O código foi desenvolvido em linguagem C na placa de projetos Arduino.
  
 </span>
 
