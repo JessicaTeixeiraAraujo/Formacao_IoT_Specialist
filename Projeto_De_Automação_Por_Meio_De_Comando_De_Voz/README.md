@@ -1,14 +1,14 @@
 <span align="center">
 
-#  *Bem-vindos ao  Projeto de Automação Por Meio de Comando de Voz*
+#  *Bem-vindos ao  Projeto de Automação Por Meio do Comando de Voz*
  
 </span>
 
 <span align="justify">
 
-Neste projeto o objetivo foi criar uma assistente virtual para automação residencial. E, durante o processo utilizou-se redes neurais para interpretação de comando de voz, arduino, motores, lâmpadas, sirenes e outros elementos de automação.
+O intuito deste projeto foi criar uma assistente virtual para automação residencial. E, durante o processo utilizou-se redes neurais para interpretação de comando de voz, arduino, motores, lâmpadas, sirenes e outros elementos de automação.
 
-Necessário as seguintes instalações:
+Para a reprodução será necessário as seguintes instalações:
 
 - Pip install SpeechRecognition;
 
@@ -16,7 +16,7 @@ Necessário as seguintes instalações:
 
 - Conta no [TinkerCad](https://www.tinkercad.com/dashboard), onde o projeto foi desenvolvido.
 
-Possiveis ideias iniciais de projetos:
+Possiveis ideias iniciais de projetos para inspiração:
 
 - Ligação de atuadores (lâmpadas, motores, sirenes) por meio de controle sem fio e comando de voz;
 
