@@ -7,7 +7,7 @@
 <span align="justify">
 
 
-### Neste projeto, simulando uma estufa de hortaliças, foi desenvolvido no [TinkerCad](https://www.tinkercad.com/) um circuito eletrônico envolvendo um sensor de temperatura, uma buzina, um LED e um motor, controlados por meio de um Arduino. O projeto seguiu os critérios a seguir:
+### Neste projeto o intuito é simular uma estufa de hortaliças. E, para os fins do projeto, foi desenvolvido no [TinkerCad](https://www.tinkercad.com/) um circuito eletrônico envolvendo um sensor de temperatura, uma buzina, um LED e um motor, controlados por meio de um Arduino.
 
 Critérios:
 
@@ -17,7 +17,7 @@ Critérios:
 
 - Caso a temperatura ultrapasse os 50 °C, um LED vermelho e uma buzina devem acionar avisando uma situação de emergência.
 
-### Todo o processo foi programado em linguagem C na placa de projetos Arduino.
+### Orocesso foi programado em linguagem C na placa de projetos Arduino.
  
 </span>
 
