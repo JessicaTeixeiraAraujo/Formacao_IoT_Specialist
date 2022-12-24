@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao Projeto Criando um Sistema de Reconhecimento Facial do Zero*
+#  *Bem-vindos ao Projeto Criando um Sistema de Reconhecimento Facial*
  
 </span>
 
