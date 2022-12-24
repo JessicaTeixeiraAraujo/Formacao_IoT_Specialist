@@ -6,7 +6,7 @@
 
 <span align="justify">
 
-## O intuito deste projeto foi elaborar um sistema de detecção e reconhecimento de faces. Para isto, utilizou-se o framework *TensorFlow* e as bibliotecas e frameworks corelacionados.
+## O intuito deste projeto foi elaborar um sistema de detecção e reconhecimento facial. Para isto, utilizou-se o framework *TensorFlow* e as bibliotecas e frameworks corelacionados.
 
 O sistema é ser capaz de detectar e reconhecer mais de uma face ao mesmo tempo.  
 
