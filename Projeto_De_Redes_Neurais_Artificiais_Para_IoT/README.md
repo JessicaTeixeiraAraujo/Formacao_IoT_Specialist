@@ -10,4 +10,6 @@
  
  </span>
  
- 
+<div align="center">
+<img src="https://agenciaopen.com/wp-content/uploads/2017/08/shutterstock_619552286-1.jpg" width="1050px" />
+</div>
