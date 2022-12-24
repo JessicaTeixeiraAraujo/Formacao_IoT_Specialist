@@ -12,7 +12,7 @@ Necessário as seguintes instalações:
 
 - pip install SpeechRecognition; e
 
-- pip install + [caminho](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+- pip install + [caminho](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio).
 
 Conta no [TinkerCad](https://www.tinkercad.com/dashboard), onde o projeto foi desenvolvido.
 
