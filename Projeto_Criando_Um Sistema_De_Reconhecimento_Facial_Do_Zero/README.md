@@ -6,21 +6,21 @@
 
 <span align="justify">
 
-## O objetivo principal deste projeto é trabalhar com as bibliotecas e frameworks estudados e analisados nas aulas. Neste sentido, a proposta padrão envolve um sistema de detecção e reconhecimento de faces, utilizando o framework TensorFlow em conjuntos com as bibliotecas que o projetista julgue necessárias, de forma ilimitada.  
+## O objetivo principal deste projeto é trabalhar aplicar na prática as bibliotecas e frameworks estudadas e analisadas. A proposta padrão envolve um sistema de detecção e reconhecimento de faces, utilizando o framework *TensorFlow* em conjuntos com as bibliotecas que julgar necessárias, livre para criar de forma ilimitada.  
  
-Por meio da é possível visualizar o resultado esperado para o modelo proposto, devendo detectar e reconhecer mais de uma face ao mesmo tempo.  
+O resultado esperado para o modelo, deve ser capaz de detectar e reconhecer mais de uma face ao mesmo tempo.  
 
-Para isso você deve:
+Para isso deve-se:
 
 - Utilizar uma rede de detecção treinada para detectar faces;
 
 - Utilizar uma rede de classificação para classificar a face detectada. 
 
-Para realizar este projeto, você pode utilizar os seguintes trabalhos de referência:
+Para realizar este projeto, pode-se utilizar, os seguintes trabalhos de referência:
 
-[Detecção Facial](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw?usp=sharing) 
+- [Detecção Facial](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw?usp=sharing) 
  
-[Detecção e classificação de objetos](https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing) 
+- [Detecção e classificação de objetos](https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing) 
 
 </span>
 
