@@ -7,7 +7,7 @@
 <span align="justify">
 
 
-### Neste projeto o intuito é simular uma estufa de hortaliças. E, para os fins do projeto, foi desenvolvido no [TinkerCad](https://www.tinkercad.com/) um circuito eletrônico envolvendo um sensor de temperatura, uma buzina, um LED e um motor, controlados por meio de um Arduino.
+### O intuito do projeto é simular uma estufa de hortaliças. E, para os fins do projeto, foi desenvolvido no [TinkerCad](https://www.tinkercad.com/) um circuito eletrônico envolvendo um sensor de temperatura, uma buzina, um LED e um motor, controlados por meio de um Arduino.
 
 Critérios:
 
