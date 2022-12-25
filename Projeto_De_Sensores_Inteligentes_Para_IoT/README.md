@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao Projeto Sensores Inteligentes para IoT*
+#  *Bem-vindos ao Projeto Sensores Inteligentes Para IoT*
  
 </span>
 
